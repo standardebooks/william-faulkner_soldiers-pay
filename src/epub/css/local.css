@@ -2,8 +2,23 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
+#chapter-4-2 > p:nth-child(18),
+#chapter-4-2 > p:nth-child(21),
+#chapter-4-2 > p:nth-child(23),
+#chapter-4-2 > p:nth-child(25),
+#chapter-4-2 > p:nth-child(27),
+#chapter-4-2 > p:nth-child(29){
+	text-align: center;
+	padding-top: 0.5em;
+}
+
 body [xml|lang]{
 	font-style: italic;
+}
+
+/* Need this since body [xml|lang] selector will catch spans too */
+span[xml|lang]{
+	font-style: normal;
 }
 
 /* Unitalicize epigraph title */
@@ -56,9 +71,12 @@ footer{
 }
 
 [epub|type~="z3998:sender"],
-[epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
+}
+
+[epub|type~="z3998:salutation"]{
+	text-align: initial;
 }
 /* End letters */
 
