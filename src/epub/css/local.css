@@ -2,12 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
-#chapter-4-2 > p:nth-child(18),
-#chapter-4-2 > p:nth-child(21),
-#chapter-4-2 > p:nth-child(23),
-#chapter-4-2 > p:nth-child(25),
-#chapter-4-2 > p:nth-child(27),
-#chapter-4-2 > p:nth-child(29){
+.speaking{
 	text-indent: 0;
 	text-align: center;
 	margin-top: 0.5em;
@@ -17,33 +12,6 @@
 #chapter-4-2 > p:nth-child(32),
 #chapter-4-2 > p:nth-child(33){
 	margin-top: 0.5em;
-}
-
-#chapter-7-7 > p:nth-child(2){
-	text-indent: 0;
-	text-align: center;
-}
-
-#chapter-7-7 > p:nth-child(4),
-#chapter-7-7 > p:nth-child(6),
-#chapter-7-7 > p:nth-child(8),
-#chapter-7-7 > p:nth-child(10),
-#chapter-7-7 > p:nth-child(12),
-#chapter-7-7 > p:nth-child(15),
-#chapter-7-7 > p:nth-child(17),
-#chapter-7-7 > p:nth-child(19),
-#chapter-7-7 > p:nth-child(21),
-#chapter-7-7 > p:nth-child(23),
-#chapter-7-7 > p:nth-child(25),
-#chapter-7-7 > p:nth-child(27),
-#chapter-7-7 > p:nth-child(30),
-#chapter-7-7 > p:nth-child(32),
-#chapter-7-7 > p:nth-child(34),
-#chapter-7-7 > p:nth-child(36),
-#chapter-7-7 > p:nth-child(38){
-	text-indent: 0;
-	text-align: center;
-	padding-top: 0.5em;
 }
 
 #chapter-7-7 > p:nth-child(40){
