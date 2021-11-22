@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-faulkner/soldiers-pay</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-01-01T22:17:55Z</dc:date>
+		<meta property="dcterms:modified">2022-01-01T22:17:55Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -20,7 +20,6 @@
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
 		<meta property="schema:accessibilityFeature">alternativeText</meta>
-		<meta property="schema:accessibilityFeature">longDescription</meta>
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
@@ -36,16 +35,16 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">American soldiers returning from the First World War meet a scarred and lethargic comrade and help him reach home.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Soldiers’ Pay&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/william-faulkner"&gt;William Faulkner’s&lt;/a&gt; first published novel. It begins with a train journey on which two American soldiers, Joe Gilligan and Julian Lowe, who are returning from the First World War, meet a scarred, lethargic, and withdrawn fighter pilot Donald Mahon, who was presumed dead by his family. The rest of the novel centers around Mahon and his slow deterioration, as well as various romantic complications that arise upon his return home.&lt;/p&gt;
-			&lt;p&gt;Faulkner drew inspiration for this novel from his own experience of the First World War. In the spring of 1918, he moved from his hometown, Oxford, Mississippi, to Yale and worked as an accountant until meeting a Canadian Royal Air Force pilot who encouraged him to join the R.A.F. He then traveled to Toronto, pretended to be British (he affected a British accent and forged letters from British officers and a made-up Reverend), and joined the R.A.F. in the hopes of becoming a hero. However, the war ended before he was able to complete his flight training, and, like Julian Lowe, never witnessed actual combat. Upon returning to Mississippi, he began fabricating various heroic stories about his time in the air force, like narrowly surviving a plane crash with broken legs and metal plates under the skin, and proudly strode around Oxford in his uniform.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Soldiers’ Pay&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/william-faulkner"&gt;William Faulkner’s&lt;/a&gt; first published novel. It begins with a train journey on which two American soldiers, Joe Gilligan and Julian Lowe, are returning from the First World War. They meet a scarred, lethargic, and withdrawn fighter pilot, Donald Mahon, who was presumed dead by his family. The novel continues to focus on Mahon and his slow deterioration, and the various romantic complications that arise upon his return home.&lt;/p&gt;
+			&lt;p&gt;Faulkner drew inspiration for this novel from his own experience of the First World War. In the spring of 1918, he moved from his hometown, Oxford, Mississippi, to Yale and worked as an accountant until meeting a Canadian Royal Air Force pilot who encouraged him to join the R.A.F. He then traveled to Toronto, pretended to be British (he affected a British accent and forged letters from British officers and a made-up Reverend), and joined the R.A.F. in the hopes of becoming a hero. But the war ended before he was able to complete his flight training, and, like Julian Lowe, he never witnessed actual combat. Upon returning to Mississippi, he began fabricating various heroic stories about his time in the air force (like  narrowly surviving a plane crash with broken legs and metal plates under the skin), and proudly strode around Oxford in his uniform.&lt;/p&gt;
 			&lt;p&gt;Faulkner was encouraged to write &lt;i&gt;Soldiers’ Pay&lt;/i&gt; by his close friend and fellow writer &lt;a hrei="https://standardebooks.org/ebooks/sherwood-anderson"&gt;Sherwood Anderson&lt;/a&gt;, whom Faulkner met in New Orleans. Anderson wrote in his &lt;i&gt;Memoirs&lt;/i&gt; that he went “personally to Horace Liveright”—&lt;i&gt;Soldiers’ Pay&lt;/i&gt; was originally published by Boni &amp;amp; Liveright—“to plead for the book.”&lt;/p&gt;
-			&lt;p&gt;Though the novel was a commercial failure at the time of its publication, Faulkner’s subsequent fame has ensured its place among important literature.&lt;/p&gt;
+			&lt;p&gt;Though the novel was a commercial failure at the time of its publication, Faulkner’s subsequent fame has ensured its long-term success.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20181197</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.186670</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">91766</meta>
+		<meta property="se:reading-ease.flesch">76.82</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Soldiers%27_Pay</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-faulkner_soldiers-pay</meta>
 		<dc:creator id="author">William Faulkner</dc:creator>
@@ -77,6 +76,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
