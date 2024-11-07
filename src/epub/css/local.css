@@ -3,7 +3,7 @@
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
 .speaking{
-	margin-top: 0.5em;
+	margin-top: .5em;
 	text-align: center;
 	text-indent: 0;
 }
